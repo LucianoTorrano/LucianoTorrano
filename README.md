@@ -1,4 +1,4 @@
-![](https://github.com/LucianoTorrano/LucianoTorrano/blob/main/portfolio.gif?raw=true)
+<a href="https://www.lucianotorrano.com" target="blank"><img src="https://github.com/LucianoTorrano/LucianoTorrano/blob/main/portfolio.gif?raw=true" width="100%"/></a>
 ### Hi there :mate:, my name is Luciano
 
 I'm an electronic engineer student in the University of Buenos Aires, where I learned my first programming languages (C and C++). After some years, I've found a new passion for web development.
